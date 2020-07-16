@@ -1,10 +1,10 @@
-package fr.alteca.robot;
+package fr.alteca;
 
 import robocode.Robot;
 import robocode.ScannedRobotEvent;
 
 
-public class RobotSeb extends Robot {
+public class Slehu extends Robot {
 	
 	@Override
 	public void run() {
